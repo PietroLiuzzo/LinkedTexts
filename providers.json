@@ -20,7 +20,7 @@
         }
     },
     {
-        "endpoint": "http://betamasaheft.eu/api/dts",
+        "endpoint": "https://betamasaheft.eu/api/dts",
         "protocol": "dts",
         "name": "Beta maṣāḥǝft",
         "status": "experimental",
